@@ -1,2 +1,4 @@
 alert("loucura no caiderao");
-let numeroSecreto
+let numeroSecreto = 0;
+
+//test commit
